@@ -10,7 +10,7 @@ A Magento 2 module offering a way to resize a single products images, or an indi
 
 Run `bin/magento catalog:images:resize:single` with either of the options.
 
-- `--path "filepath"` Resizes a single image [relative from $ROOT/pub/media/catalog/product/]
+- `--path "filepath"` Resizes a single image [relative from `$ROOT/pub/media/catalog/product/`]
 - `--product 200` Retrevies a product by the given ID and resizes all of it's images
 
 # Issues
